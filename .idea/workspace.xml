@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a19efdad-8e17-4ae6-ade8-fe60f758e4a5" name="Default Changelist" comment="Консольна гра &quot;Камінь ножиці папір&quot; з ботом." />
+    <list default="true" id="a19efdad-8e17-4ae6-ade8-fe60f758e4a5" name="Default Changelist" comment="Консольна гра &quot;Камінь ножиці папір&quot; з ботом.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594623096112</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1594629739488</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594629739488</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -90,9 +103,21 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Консольна гра &quot;Камінь ножиці папір&quot; з ботом." />
-    <option name="LAST_COMMIT_MESSAGE" value="Консольна гра &quot;Камінь ножиці папір&quot; з ботом." />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="85" y="110" width="1350" height="638" key="DiffContextDialog" timestamp="1594625335726">
@@ -127,14 +152,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="538" y="110" key="VCS.ChangeListViewerDialog/0.0.1536.824@0.0.1536.824" timestamp="1594628961698" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1594629048030">
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1594629974372">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594629048030" />
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594628881983">
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594629974372" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594629890578">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1594628881983" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1594629890578" />
     <state x="513" y="201" key="git4idea.merge.GitMergeDialog" timestamp="1594625266027">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -147,5 +172,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="541" y="274" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824@0.0.1536.824" timestamp="1594628858552" />
+    <state x="570" y="319" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594629886802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="319" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594629886802" />
   </component>
 </project>
